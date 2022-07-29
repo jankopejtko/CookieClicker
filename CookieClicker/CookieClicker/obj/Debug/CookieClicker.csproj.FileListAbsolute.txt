@@ -1,0 +1,11 @@
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe.config
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\bin\Debug\CookieClicker.exe
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\bin\Debug\CookieClicker.pdb
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.AssemblyReference.cache
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Form1.resources
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.cache
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\obj\Debug\CookieClicker.csproj.CoreCompileInputs.cache
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\obj\Debug\CookieClicker.exe
+C:\Users\janko\source\repos\CookieClicker\CookieClicker\obj\Debug\CookieClicker.pdb
